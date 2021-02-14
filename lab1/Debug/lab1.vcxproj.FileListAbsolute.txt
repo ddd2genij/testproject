@@ -1,0 +1,2 @@
+D:\Csecondsem\lab1\Debug\lab1.exe
+D:\Csecondsem\lab1\Debug\lab1.pdb
